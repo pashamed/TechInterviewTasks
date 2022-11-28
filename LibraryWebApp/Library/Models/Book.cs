@@ -1,5 +1,6 @@
 ﻿using Newtonsoft.Json;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Library.Models
 {
@@ -16,6 +17,7 @@ namespace Library.Models
         [Display(Name = "Жанр")]
         public Genre Genre { get; set; }
         [JsonIgnore]
+        [ForeignKey("AuthorID")]
         public Author? Author { get; set; }
     }
 
@@ -24,7 +26,7 @@ namespace Library.Models
         Драма = 1,
         Ужасы = 2,
         Триллер = 3,
-        Биорграфия = 4,
+        Биография = 4,
         История = 5
     }
 }

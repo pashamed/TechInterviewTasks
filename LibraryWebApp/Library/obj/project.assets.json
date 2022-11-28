@@ -9851,23 +9851,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Pashamed\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\pasha\\.nuget\\packages\\": {},
+    "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pashamed\\source\\repos\\TechInterviewTasks\\LibraryWebApp\\Library\\Library.csproj",
+      "projectUniqueName": "C:\\Users\\pasha\\source\\repos\\TechInterviewTasks\\LibraryWebApp\\Library\\Library.csproj",
       "projectName": "Library",
-      "projectPath": "C:\\Users\\Pashamed\\source\\repos\\TechInterviewTasks\\LibraryWebApp\\Library\\Library.csproj",
-      "packagesPath": "C:\\Users\\Pashamed\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pashamed\\source\\repos\\TechInterviewTasks\\LibraryWebApp\\Library\\obj\\",
+      "projectPath": "C:\\Users\\pasha\\source\\repos\\TechInterviewTasks\\LibraryWebApp\\Library\\Library.csproj",
+      "packagesPath": "C:\\Users\\pasha\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\pasha\\source\\repos\\TechInterviewTasks\\LibraryWebApp\\Library\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Pashamed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\pasha\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -9876,7 +9876,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
